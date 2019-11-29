@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Lab7</string>
+
+    <integer-array name="imgArray">
+        <item>@drawable/trans1</item>
+        <item>@drawable/trans2</item>
+        <item>@drawable/trans3</item>
+        <item>@drawable/trans4</item>
+        <item>@drawable/trans5</item>
+        <item>@drawable/trans6</item>
+    </integer-array>
+
+    <string-array name="nameArray">
+        <item>trans1</item>
+        <item>trans2</item>
+        <item>trans3</item>
+        <item>trans4</item>
+        <item>trans5</item>
+        <item>trans6</item>
+    </string-array>
+
+    <integer-array name="imgArray2">
+        <item>@drawable/cubee1</item>
+        <item>@drawable/cubee2</item>
+        <item>@drawable/cubee3</item>
+        <item>@drawable/cubee4</item>
+        <item>@drawable/cubee5</item>
+        <item>@drawable/cubee6</item>
+        <item>@drawable/cubee7</item>
+        <item>@drawable/cubee8</item>
+        <item>@drawable/cubee9</item>
+    </integer-array>
+
+    <string-array name="nameArray2">
+        <item>cubee1</item>
+        <item>cubee2</item>
+        <item>cubee3</item>
+        <item>cubee4</item>
+        <item>cubee5</item>
+        <item>cubee6</item>
+        <item>cubee7</item>
+        <item>cubee8</item>
+        <item>cubee9</item>
+    </string-array>
+</resources>
